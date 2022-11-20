@@ -4,8 +4,10 @@
  ```bash
   yarn install
  ```
- 
- # Iniciando applicação
+
+# Inserir link do backend no arquivo .env ou na constante BASE_URL no arquivo src/services/api.ts
+
+# Iniciando applicação
  ```bash
  yarn dev
  ```
