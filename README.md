@@ -1,5 +1,5 @@
 # frontend :NG Cash - <> Trybe
-
+# ATENÇÃO! NodeJs na versão 16.18.0 - alterar as versões utilizando NVM
 # Instalando dependências
  ```bash
   yarn install
@@ -11,3 +11,5 @@
  ```bash
  yarn dev
  ```
+
+# Backend proposto para fins de realizar o desafio da vaga de DESENVOLVEDOR FRONT-END JÚNIOR DA NG CASH <> TRYBE
